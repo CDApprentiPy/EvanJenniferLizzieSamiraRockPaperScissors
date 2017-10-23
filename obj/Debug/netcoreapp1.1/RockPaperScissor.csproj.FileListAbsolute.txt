@@ -1,0 +1,8 @@
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\bin\Debug\netcoreapp1.1\RockPaperScissor.deps.json
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\bin\Debug\netcoreapp1.1\RockPaperScissor.runtimeconfig.json
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\bin\Debug\netcoreapp1.1\RockPaperScissor.runtimeconfig.dev.json
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\bin\Debug\netcoreapp1.1\RockPaperScissor.dll
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\bin\Debug\netcoreapp1.1\RockPaperScissor.pdb
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\obj\Debug\netcoreapp1.1\RockPaperScissor.AssemblyInfo.cs
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\obj\Debug\netcoreapp1.1\RockPaperScissor.dll
+C:\Users\Lizzie G\Documents\dojo\csharp\RockPaperScissor\obj\Debug\netcoreapp1.1\RockPaperScissor.pdb
